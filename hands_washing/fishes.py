@@ -1,1 +1,1 @@
-fish = "fishes"
+fish = "fish"
